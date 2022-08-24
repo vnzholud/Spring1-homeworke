@@ -1,4 +1,4 @@
-package ru.zholud.spring1homeworke;
+package ru.zholud.spring1homeworke4;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
